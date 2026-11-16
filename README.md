@@ -21,7 +21,6 @@
 
 <div align="center">
 
-## &lt; GitHub Stats /&gt;
 
 <a href="https://github.com/Vishnu0074">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishnu0074&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=F472B6&text_color=C9D1D9&ring_color=F472B6&rank_icon=github" alt="GitHub statistics" />
