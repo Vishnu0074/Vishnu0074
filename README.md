@@ -1,104 +1,69 @@
-<!--
-  GitHub Profile README
-  Vishnu Sajan · @Vishnu0074
--->
+<!-- Vishnu Sajan | GitHub Profile -->
 
 <div align="center">
 
-# Hey, I'm Vishnu 👋
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Vishnu+%F0%9F%91%8B;Flutter+%26+Django+Developer;Building+useful+things+for+the+web+%26+mobile;Always+learning.+Always+building." alt="Typing introduction" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=620&lines=Flutter+%26+Django+Developer;Building+for+mobile+and+the+web;Open-source+enthusiast;Turning+ideas+into+software." alt="Animated introduction" />
-
-<p>Building thoughtful digital experiences with Flutter, Dart and Python.</p>
+<p>
+  <samp>Turning ideas into software, one commit at a time.</samp>
+</p>
 
 <a href="https://github.com/Vishnu0074?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  <img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=F472B6&labelColor=0D1117" alt="Repositories" />
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://github.com/Vishnu0074">
+  <img src="https://komarev.com/ghpvc/?username=Vishnu0074&style=for-the-badge&color=BE185D&label=PROFILE+VIEWS" alt="Profile views" />
 </a>
 
 </div>
 
----
-
-## About
-
-- 💻 Flutter and Django developer.
-- 📱 Interested in polished cross-platform applications.
-- ⚙️ Building APIs, backend services and developer tools.
-- 🌱 Always experimenting, learning and improving.
-
-## Tech Stack
+<br/>
 
 <div align="center">
 
-**Languages**
+## &lt; GitHub Stats /&gt;
 
-<img src="https://skillicons.dev/icons?i=dart,python,js,html,css" alt="Dart, Python, JavaScript, HTML and CSS" />
+<a href="https://github.com/Vishnu0074">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishnu0074&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=F472B6&text_color=C9D1D9&ring_color=F472B6&rank_icon=github" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/Vishnu0074">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu0074&layout=compact&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=C9D1D9" alt="Most used languages" />
+</a>
 
-**Frameworks**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,django" alt="Flutter and Django" />
-
-**Databases & Services**
-
-<img src="https://skillicons.dev/icons?i=postgres,firebase,sqlite" alt="PostgreSQL, Firebase and SQLite" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,docker" alt="Git, GitHub, VS Code, Android Studio, Postman and Docker" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Vishnu0074&hide_border=true&background=0D1117&ring=F472B6&fire=F472B6&currStreakLabel=F472B6&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak statistics" />
 
 </div>
 
----
-
-## Selected Projects
-
-| Project | What it does |
-|:--|:--|
-| 🎵 **[Loopin](https://github.com/Vishnu0074/loopin)** | A cross-platform music experience focused on discovery, playback and playlists. |
-| 📍 **[BinSpot](https://github.com/Vishnu0074/BinSpot)** | A location-based app for discovering nearby bins and community contributions. |
-| ✨ **[Marqflow](https://pub.dev/packages/marqflow)** | Flutter text widgets that detect overflow automatically and scroll long text. |
-| 🛠️ **Flutter Performance Manager** | A toolkit for monitoring Flutter app performance and runtime diagnostics. |
-
-[Browse all repositories →](https://github.com/Vishnu0074?tab=repositories)
-
----
-
-## GitHub Stats
+<br/>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vishnu0074&show_icons=true&theme=transparent&hide_border=true&title_color=F472B6&icon_color=F472B6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu0074&layout=compact&theme=transparent&hide_border=true&title_color=F472B6&text_color=C9D1D9" alt="Most used languages" />
+## &lt; Contribution Activity /&gt;
 
-<img src="https://streak-stats.demolab.com?user=Vishnu0074&theme=transparent&hide_border=true&ring=F472B6&fire=F472B6&currStreakLabel=F472B6" alt="GitHub contribution streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnu0074&bg_color=0D1117&color=C9D1D9&line=DB2777&point=F472B6&area=true&area_color=831843&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution activity graph" />
 
 </div>
 
-## Contribution Activity
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnu0074&bg_color=00000000&color=F472B6&line=DB2777&point=F9A8D4&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+## &lt; Contribution Snake /&gt;
+
+<img src="https://raw.githubusercontent.com/Vishnu0074/Vishnu0074/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 
 </div>
 
-## Contribution Snake
+<br/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vishnu0074/Vishnu0074/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+<samp>Thanks for stopping by.</samp>
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-**Code. Create. Improve. Repeat.**
-
-<img src="https://komarev.com/ghpvc/?username=Vishnu0074&style=flat-square&color=DB2777&label=PROFILE+VIEWS" alt="Profile views" />
+**Build · Break · Learn · Repeat**
 
 </div>
