@@ -40,7 +40,6 @@
 
 <div align="center">
 
-## &lt; Contribution Activity /&gt;
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnu0074&bg_color=0D1117&color=C9D1D9&line=DB2777&point=F472B6&area=true&area_color=831843&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution activity graph" />
 
@@ -50,7 +49,6 @@
 
 <div align="center">
 
-## &lt; Contribution Snake /&gt;
 
 <img src="https://raw.githubusercontent.com/Vishnu0074/Vishnu0074/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 
