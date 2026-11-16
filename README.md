@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=3200&pause=1100&color=F472B6&center=true&vCenter=true&width=760&lines=Vishnu+Sajan;Flutter+%26+Django+Engineer;Engineering+thoughtful+mobile+experiences;Building+reliable+web+%26+backend+systems;Creating+tools+that+make+development+better." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=3200&pause=1100&color=F472B6&center=true&vCenter=true&width=760&lines=Vishnu+Sajan;App+Developer+by+Passion;Developing+Solutions+That+Matter;Not+Following+Trends%2C+But+Staying+Steps+Ahead;A+Hobbyist+at+Heart%2C+An+Engineer+by+Practice." alt="Typing introduction" />
 
 <p>
   <samp>Turning ideas into software, one commit at a time.</samp>
